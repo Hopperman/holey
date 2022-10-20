@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Hanno Opperman"]
   s.email       = "hannopperman@gmail.com"
   s.files       = ["lib/holey.rb"]
-  s.homepage    = "n/a"
+  s.homepage    = "https://github.com/Hopperman/holey"
   s.license     = "MIT"
 end
